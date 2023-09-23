@@ -13,7 +13,6 @@ body{
     color: white;
     text-align: center;
 }
-
 .sec1,.sec2{
     display: flex;
     /* justify-content: space-evenly; */
@@ -91,7 +90,7 @@ h1{
         transform: scale(1);
     }
     50%{
-        transform: scale(1.4);
+        transform: scale(0.7);
     }
     100%{
         transform: scale(1);
